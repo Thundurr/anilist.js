@@ -1,7 +1,7 @@
 {
-  "name": "anilist.js",
-  "version": "1.2.0",
-  "description": "Communicate with the AniList API.",
+  "name": "anilist.js-for-helix",
+  "version": "1.0.0",
+  "description": "A custom fork of anilist.js designed for Helix",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -13,7 +13,7 @@
     "typescript"
   ],
   "repository": "https://github.com/MrScopes/anilist.js",
-  "author": "MrScopes",
+  "author": "MrScopes & thundurr",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1",
